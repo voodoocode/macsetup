@@ -103,7 +103,7 @@ Aliases:
     shoot = push origin --delete
 
 ## Apps
-- [1Password](https://agilebits.com/onepassword)
+- [KeePassX](https://www.keepassx.org/downloads)
 - [Alfred](https://www.alfredapp.com)
 - [Paw](https://luckymarmot.com/paw) REST client
 - [Sequel Pro](http://www.sequelpro.com) MySQL client
