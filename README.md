@@ -119,3 +119,4 @@ Aliases:
 - Gifski
 - VirtualBox
 - Adobe CC: PS and XD
+- ImageOptim
