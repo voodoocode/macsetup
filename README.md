@@ -3,7 +3,7 @@
 - Update MacOS X
 - [iTerm2](#iterm2)
 - [Homebrew](#homebrew)
-- [Atom](#atom)
+- [Editors](#editors)
 - [Node.js](#node)
 - [Oh MY ZSH](#oh-my-zsh)
 - [CLI Tools](#cli-tools)
@@ -24,10 +24,14 @@ needs xcode
 
 http://brew.sh
 
-## Atom
-https://atom.io
+## Editors
+https://code.visualstudio.com/
+Code Extensions: Bracket Pair Colorizer, Cobalt2 Theme, Color Highlight, ESLint, IntelliSense for CSS, open in browser, Path Intellisense, Rainbow Brackets
 
+https://atom.io
 Atom Packages: minimap, open-recent, highlight-selected, open-in-browser
+
+Webstorm
 
 ## Node
 
@@ -37,6 +41,8 @@ http://nodejs.org
 
     $ brew update
     $ brew install node
+    
+NVM
 
 ## oh-my-zsh
 https://github.com/robbyrussell/oh-my-zsh
@@ -44,7 +50,6 @@ https://github.com/robbyrussell/oh-my-zsh
 agnoster theme
 
 ## CLI-Tools
-- [httpie](https://github.com/jkbrzt/httpie)
 - [z finder](https://github.com/rupa/z/blob/master/z.sh)
 
 ## Git
@@ -105,5 +110,12 @@ Aliases:
 ## Apps
 - [KeePassX](https://www.keepassx.org/downloads)
 - [Alfred](https://www.alfredapp.com)
-- [Paw](https://luckymarmot.com/paw) REST client
 - [Sequel Pro](http://www.sequelpro.com) MySQL client
+- Firefox + Developer Edition
+- Opera + Developer Edition
+- Chrome + Canary 
+-- Postman
+- Filezilla
+- Gifski
+- VirtualBox
+- Adobe CC: PS and XD
