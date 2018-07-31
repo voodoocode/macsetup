@@ -51,6 +51,7 @@ agnoster theme
 
 ## CLI-Tools
 - [z finder](https://github.com/rupa/z/blob/master/z.sh)
+- [ack](https://beyondgrep.com)
 
 ## Git
 Aliases:
