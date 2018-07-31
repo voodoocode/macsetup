@@ -25,13 +25,15 @@ needs xcode
 http://brew.sh
 
 ## Editors
-https://code.visualstudio.com/
+[VS Code](https://code.visualstudio.com/)
 Code Extensions: Bracket Pair Colorizer, Cobalt2 Theme, Color Highlight, ESLint, IntelliSense for CSS, open in browser, Path Intellisense, Rainbow Brackets
 
-https://atom.io
+[Atom](https://atom.io)
 Atom Packages: minimap, open-recent, highlight-selected, open-in-browser
 
-Webstorm
+[Webstorm](https://www.jetbrains.com/webstorm/download/#section=mac)
+ESLint, Rainbow Brackets, Darcula Theme
+
 
 ## Node
 
